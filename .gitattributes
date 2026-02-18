@@ -1,2 +1,29 @@
 # Auto detect text files and perform LF normalization
 * text=auto
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>"My first web page </title>
+        <style>
+            img{
+                width : 100px; 
+                border-radius: 50px;
+                float: left ;
+                margin-right: 20px;
+            }
+            p.username{
+                font-weight: bold;
+
+            }
+        </style>
+        <body>
+            <img src="images/my image.jpeg">
+            <p class="username">@Sanjay_Rajshekaran</p>
+            <p>Learning HTML from today</p>
+            <p>Hope you doing well</p>
+             
+        </head>    
+        </body>
+    
+</html># Auto detect text files and perform LF normalization
+* text=auto
