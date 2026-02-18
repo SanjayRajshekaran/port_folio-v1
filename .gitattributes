@@ -1,8 +1,8 @@
-
 <!DOCTYPE html>
 <html>
     <head>
         <title>"My first web page </title>
+        
         <style>
             img{
                 width : 100px; 
@@ -20,9 +20,6 @@
             <p class="username">@Sanjay_Rajshekaran</p>
             <p>Learning HTML from today</p>
             <p>Hope you doing well</p>
-             
-        </head>    
-        </body>
-    
-</html># Auto detect text files and perform LF normalization
-* text=auto
+        </body>     
+  </head>    
+</html>
